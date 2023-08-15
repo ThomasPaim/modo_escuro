@@ -1,2 +1,1 @@
-# modo_escuro
-Modo escuroo
+# modoescuro
